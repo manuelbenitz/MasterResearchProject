@@ -1,0 +1,132 @@
+﻿_id,Bike Counter Locations,Latitude,Longitude,Setup Date,User Type
+1,Aston Quay/Fitzgeralds,53.34668,-6.25988,2019-02-27T00:00:00,Pedestrians
+2,Bachelors walk/Bachelors way ,53.34744,-6.2601,2019-02-27T00:00:00,Pedestrians
+3,Baggot st lower/Wilton tce inbound ,53.33454,-6.24562,2020-08-27T00:00:00,Pedestrians
+4,Baggot st upper/Mespil rd/Bank,53.33377,-6.24451,2020-08-27T00:00:00,Pedestrians
+5,Capel st/Mary street,53.34853,-6.2688,2011-08-01T00:00:00,Pedestrians
+6,Castleknock Totem,53.37,-6.349436,2020-09-04T00:00:00,Cyclists
+7,Charleville Mall ,53.35695,-6.24548,2018-05-28T00:00:00,Cyclists
+8,Clonskeagh Totem,53.3063759,-6.237057412,2012-05-03T00:00:00,Cyclists
+9,Clontarf - James Larkin Rd,53.36854,-6.17032,2021-04-28T00:00:00,Cyclists
+10,Clontarf - Pebble Beach Carpark,53.35825,-6.19107,2021-04-27T00:00:00,Cyclists
+11,Coast Road Totem,53.388442,-6.124308,2020-09-04T00:00:00,Cyclists
+12,College Green bike loop @Bank of Ireland,53.3454,-6.25922,2024-04-15T12:00:00,Cyclists
+13,College Green/Bank Of Ireland,53.34534,-6.25924,2019-02-27T00:00:00,Pedestrians
+14,College Green/Church Lane,53.34441,53.34441,2019-02-27T00:00:00,Pedestrians
+15,College st/Westmoreland st,53.34506,-6.25888,2019-02-27T00:00:00,Pedestrians
+16,Corkagh Park Location 1 - N7,53.30593,-6.4123,2018-11-28T00:00:00,Pedestrians/Cyclists
+17,Corkagh Park Location 2 - Grange Castle,53.30996,-6.42233,2018-11-28T00:00:00,Pedestrians/Cyclists
+18,Corkagh Park Location 3 - Cherrywood,53.31552,-6.41477,2018-11-28T00:00:00,Pedestrians/Cyclists
+19,Corkagh Park Location 4 - Main Car Park,53.31543,-6.4103,2018-11-28T00:00:00,Pedestrians/Cyclists
+20,Corkagh Park Location 5 - Main Car Park,53.31558,-6.40953,2018-11-28T00:00:00,Pedestrians/Cyclists
+21,Corkagh Park Location 6 - Fonthill,53.31717,-6.41056,2018-11-28T00:00:00,Pedestrians/Cyclists
+22,D'olier st/Burgh Quay,53.34684,-6.25887,2019-02-27T00:00:00,Pedestrians
+23,Dame Street/Londis,53.34447,-6.26152,2019-02-27T00:00:00,Pedestrians
+24,Dawson Street,53.341194,-6.258337,2016-05-06T00:00:00,Pedestrians
+25,Dawson Street old,53.34217645,-6.258023149,2011-06-08T00:00:00,Pedestrians
+26,Dawson Street/Molesworth,53.34143,-6.25805,2019-11-26T00:00:00,Pedestrians
+27,Dodder Valley Park 1,53.28221,-6.34392,2020-03-23T00:00:00,Pedestrians/Cyclists
+28,Dodder Valley Park 2,53.28198,-6.34773,2020-03-23T00:00:00,Pedestrians/Cyclists
+29,Dodder Valley Park 3,53.27899,-6.35646,2020-03-23T00:00:00,Pedestrians/Cyclists
+30,Drumcondra Cyclists Inbound ,53.36367,-6.25743,2020-12-13T14:00:00,Pedestrians/Cyclists
+31,Drumcondra Cyclists Outbound,53.36243,-6.25846,2020-12-13T12:00:00,Cyclists
+32,Dun Laoghaire @ Peoples Park,53.29178,-6.12886,2020-09-01T00:00:00,Pedestrians/Cyclists
+33,Dun Laoghaire @ Seapoint Beach,53.29732,-6.16074,2020-08-31T00:00:00,Pedestrians/Cyclists
+34,Dun Laoghaire @ York Road,53.29608,-6.14258,2020-08-31T00:00:00,Pedestrians/Cyclists
+35,Glenageary,53.28141,-6.12319,2021-06-14T00:00:00,Pedestrians/Cyclists
+36,Grafton st/Monsoon,53.34077,-6.26058,2016-05-09T00:00:00,Pedestrians
+37,Grafton Street / Nassau Street / Suffolk Street,53.34355,-6.25932,2019-02-27T00:00:00,Pedestrians
+38,Grafton Street/CompuB,53.34371,-6.25996,2019-02-27T00:00:00,Pedestrians
+39,Grand Canal Cycle Path - Lock C5,53.33183,-6.25469,2018-05-14T00:00:00,Pedestrians/Cyclists
+40,Grand Canal st upp/Clanwilliam place,53.33848,-6.23794,2020-08-27T00:00:00,Pedestrians
+41,Grand Canal st upp/Clanwilliam place/Google,53.33855,-6.23898,2020-08-27T00:00:00,Pedestrians
+42,Grange Road Totem,53.28647869,-6.277641331,2014-09-26T00:00:00,Cyclists
+43,Griffith Avenue (Clare Rd Side),53.37657,-6.25362,2021-10-11T00:00:00,Cyclists
+44,Griffith Avenue (Lane Side),53.37655,-6.25467,2021-10-11T00:00:00,Cyclists
+45,Grove Road Totem,53.3296435,-6.2701778,2011-09-09T00:00:00,Cyclists
+46,Guild Street,53.34815,-6.24098,2018-05-28T00:00:00,Cyclists
+47,Henry Street outside Dunnes Stores,53.3296435,-6.2701778,2011-09-09T00:00:00,Pedestrians
+48,Henry Street/Coles Lane/Dunnes,53.34876,-6.26286,2013-07-16T00:00:00,Pedestrians
+49,Liffey st/Halfpenny Bridge,53.34682,-6.26333,2011-06-09T00:00:00,Pedestrians
+50,Liffey Street old,53.346725,-6.2632704,2011-06-09T00:00:00,Pedestrians
+51,Mary st/Jervis st,53.34865,-6.26685,2021-06-28T00:00:00,Pedestrians
+52,Morton Stadium Swords,53.401253,-6.243014,2020-10-09T00:00:00,Pedestrians
+53,N11 Outbound (Montrose),53.30673,-6.21278,2012-01-21T00:00:00,Pedestrians
+54,N11 Totem Inbound,53.30709351,-6.213873918,2011-01-13T00:00:00,Pedestrians
+55,Newcomen Bridge/Charleville mall inbound (Removed as requested by DCC),53.35645,-6.24418,2020-08-26T00:00:00,Pedestrians
+56,Newcomen Bridge/Charleville mall outbound (Removed as requested by DCC),53.35648,-6.24418,2020-08-26T00:00:00,Pedestrians
+57,North Strand Rd N/B (Counter Removed for Roadworks),53.35852,-6.24127,2018-05-28T00:00:00,Cyclists
+58,North Strand Rd S/B (Counter Removed for Roadworks),53.3586,-6.24112,2018-05-28T00:00:00,Cyclists
+59,North Wall Quay/Samuel Beckett bridge East,53.34746,-6.24099,2020-08-27T00:00:00,Pedestrians
+60,North Wall Quay/Samuel Beckett bridge West,53.3475,-6.2414,2020-08-27T00:00:00,Pedestrians
+61,O'Connell St/Parnell St/AIB,53.35251,-6.26178,2019-03-19T00:00:00,Pedestrians
+62,O'Connell St/Pennys,53.34879,-6.25969,2011-06-07T00:00:00,Pedestrians
+63,O'Connell st/Princes st North,53.34895,-6.26004,2011-06-07T00:00:00,Pedestrians
+64,O'Connell Street Pennys - PYRO EVO Temporary Counter,53.3469351,-6.25911,2021-05-13T00:00:00,Pedestrians
+65,Phibsborough Rd/Enniskerry Road,53.36354,-6.27208,2020-08-27T00:00:00,Pedestrians
+66,Phibsborough Rd/Munster St (Removed due to Overcounting),53.36322,-6.27247,2021-06-28T00:00:00,Pedestrians
+67,Portmarnock Greenway,53.40985414,-6.136892622,2020-10-30T00:00:00,Pedestrians/Cyclists
+68,Richmond st south/Portabello Harbour inbound,53.33042,-6.26448,2020-08-27T00:00:00,Pedestrians
+69,Richmond st south/Portabello Harbour outbound,53.33033,-6.26425,2020-08-27T00:00:00,Pedestrians
+70,Richmond Street Inbound,53.33216,-6.2644,2020-12-13T00:00:00,Cyclists
+71,Richmond Street Outbound,53.33216,-6.2644,2020-12-13T14:00:00,Cyclists
+72,Rock Road Bus Lane,53.30869,-6.19551,2012-01-21T00:00:00,Cyclists
+73,Rock Road Park - Ped's & Cyclists,53.30877,-6.19563,2012-01-21T00:00:00,Pedestrians/Cyclists
+74,Rock Road Totem Inbound,53.30812,-6.19503,2012-03-07T00:00:00,Cyclists
+75,Round Tower Entrance,53.32247294,-6.395453225,2018-12-18T00:00:00,Pedestrians
+76,Round Tower Upstairs,53.3223607,-6.395446866,2018-12-18T00:00:00,Pedestrians
+77,Talbot st/Guineys,53.35082,-6.2554,2019-02-27T00:00:00,Pedestrians
+78,Talbot st/Murrays Pharmacy,53.350535,-6.253992,2019-02-27T00:00:00,Pedestrians
+79,Westmoreland EAST old,53.34604478,-6.258959911,2011-06-08T00:00:00,Pedestrians
+80,Westmoreland Street East/Fleet street (Removed to Return to Supplier),53.34531,-6.25933,2016-05-06T00:00:00,Pedestrians
+81,Westmoreland Street West/Carrolls,53.34648,-6.25918,2016-05-06T00:00:00,Pedestrians
+82,Westmoreland WEST old,53.34603384,-6.25927465,2011-05-06T00:00:00,Pedestrians
+83,Wyattville Rd - Bicycles From N11,53.25097,-6.13298,2018-02-23T00:00:00,Cyclists
+84,Wyattville Rd - Bicycles Towards N11,53.25104,-6.13245,2018-05-14T00:00:00,Pedestrians/Cyclists
+85,Wyattville Rd At Park Gates,53.25141,-6.13295,2018-02-23T00:00:00,Pedestrians/Cyclists
+86,Wyattville Road At Steps (Decommissioned Coun,53.25114299,-6.13245599,2018-02-23T00:00:00,Pedestrians
+87,,,,,
+88,,,,,
+89,,,,,
+90,,,,,
+91,,,,,
+92,,,,,
+93,,,,,
+94,,,,,
+95,,,,,
+96,,,,,
+97,,,,,
+98,,,,,
+99,,,,,
+100,,,,,
+101,,,,,
+102,,,,,
+103,,,,,
+104,,,,,
+105,,,,,
+106,,,,,
+107,,,,,
+108,,,,,
+109,,,,,
+110,,,,,
+111,,,,,
+112,,,,,
+113,,,,,
+114,,,,,
+115,,,,,
+116,,,,,
+117,,,,,
+118,,,,,
+119,,,,,
+120,,,,,
+121,,,,,
+122,,,,,
+123,,,,,
+124,,,,,
+125,,,,,
+126,,,,,
+127,,,,,
+128,,,,,
+129,,,,,
+130,,,,,
+131,,,,,
