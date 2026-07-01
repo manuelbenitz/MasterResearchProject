@@ -1,6 +1,6 @@
 ## Repository Structure
 
-And also five folders, organised as follows:
+This research project repository is organised as follows:
 1. `data/` — Original datasets.
 2. `preprocessing/` — Data cleaning and feature engineering notebooks.
 3. `modelling/` — Model training and evaluation notebooks.
